@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        SaveFrom.net helper
+// @name        EasyVideoDownload
 // @namespace   http://savefrom.net/
 // @version     7.15.3
 // @date        2017-03-19

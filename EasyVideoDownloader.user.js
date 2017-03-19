@@ -9,7 +9,7 @@
 // @icon        http://sf-helper.com/img/icon_16.png
 // @icon64      http://sf-helper.com/img/icon_64.png
 // @updateURL   https://openuserjs.org/meta/laidbacktempo/SaveFrom.net_helper.meta.js
-// @downloadURL https://openuserjs.org/meta/laidbacktempo/SaveFrom.net_helper.meta.js
+// @downloadURL https://openuserjs.org/install/laidbacktempo/SaveFrom.net_helper.user.js
 // @include     http://*
 // @include     https://*
 // @run-at      document-end

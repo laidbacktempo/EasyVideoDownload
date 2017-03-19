@@ -8,8 +8,8 @@
 // @homepage    http://savefrom.net/user.php?helper=userjs
 // @icon        http://sf-helper.com/img/icon_16.png
 // @icon64      http://sf-helper.com/img/icon_64.png
-// @updateURL   https://download.sf-helper.com/chrome/helper.meta.js
-// @downloadURL https://download.sf-helper.com/chrome/helper.user.js
+// @updateURL   https://openuserjs.org/meta/laidbacktempo/SaveFrom.net_helper.meta.js
+// @downloadURL https://openuserjs.org/meta/laidbacktempo/SaveFrom.net_helper.meta.js
 // @include     http://*
 // @include     https://*
 // @run-at      document-end

@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name        SaveFrom.net helper
 // @namespace   http://savefrom.net/
-// @version     7.15.2
-// @date        2017-03-06
+// @version     7.15.3
+// @date        2017-03-19
 // @author      Magicbit, Inc
 // @description Youtube Downloader: all in one script to get Vimeo, Facebook, Dailymotion videos for free
 // @homepage    http://savefrom.net/user.php?helper=userjs

@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name        SaveFrom.net helper
+// @name        EasyVideoDownload
 // @namespace   http://savefrom.net/
-// @version     7.15.5
+// @version     7.15.6
 // @date        2017-03-20
 // @author      Magicbit, Inc
 // @description Youtube Downloader: all in one script to get Vimeo, Facebook, Dailymotion videos for free

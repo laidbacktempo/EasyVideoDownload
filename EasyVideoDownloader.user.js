@@ -1,7 +1,7 @@
  - // ==UserScript==
 // @name        EasyVideoDownload - Video Downloader for Youtube, DailyMotion and more...
 // @namespace   http://savefrom.net/
-// @version     7.15.15
+// @version     7.15.16
 // @license     MIT
 // @date        2017-12-24
 // @author      Magicbit, Inc
